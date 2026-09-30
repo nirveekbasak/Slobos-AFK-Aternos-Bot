@@ -31,9 +31,11 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Glory to Saturn",
+        "The realm never sleeps",
+        "All roads lead to Victorstadt",
+        "Travelers are welcome in Saturn",
+        "Choose your province and embrace!"
       ]
     },
     "chat-log": true,
